@@ -3,7 +3,8 @@
 Hola, soy Angelica Rivera, Diseñadora de la Comunicación Gráfica y UX Designer de Laboratoria. Me apasiona aprender constantemente y descubrir tecnologías que enriquezcan mi desarrollo. Mi propósito es diseñar experiencias UX en productos que generen vínculos con los usuarios mediante herramientas UX.
 
 ## Portafolio
-Smart Pack
+
+**Smart Pack
 
 Entender y optimizar el journey de tomar un camión de CDMX <> Cuernavaca, con el objetivo de conocer el proceso de diseño de una solución tecnológica.<De la idea al diseño, viviendo todo el journey>.
 
@@ -11,14 +12,14 @@ Tecnologia utilizada: processo, analitics, ideation-techniques, prototipo, desig
 
 
 
-Save the Children
+**Save the Children
 
 Proyecto UX para Save the Children México. Optimizar la conversión de visitantes a donadores, mediante una Landing Page, mejorando el aspecto visual y su enfoque en el usuario.
 
 Tecnologia utilizada: empty, ideation, design-systems, framework, ux-research, ux-ui, analytics
 
 
-BBVA Plan
+**BBVA Plan
 
 BBVA Plan es una aplicación que te ayuda a crear metas de ahorro personalizado, escogiendo reglas de ahorro a tu gusto de manera gratuita y sin comisiones.
 
@@ -27,6 +28,7 @@ Tecnologia utilizada: processo, analitics, ideation-techniques, prototipo, desig
 
 
 ## Contacto 
+
 
 
 
