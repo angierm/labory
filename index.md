@@ -1,32 +1,37 @@
-## Welcome to GitHub Pages
+## Sobre mi
 
-You can use the [editor on GitHub](https://github.com/angierm/labory/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hola, soy Angelica Rivera, Diseñadora de la Comunicación Gráfica y UX Designer de Laboratoria. Me apasiona aprender constantemente y descubrir tecnologías que enriquezcan mi desarrollo. Mi propósito es diseñar experiencias UX en productos que generen vínculos con los usuarios mediante herramientas UX.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Portafolio
+Smart Pack
 
-### Markdown
+Entender y optimizar el journey de tomar un camión de CDMX <> Cuernavaca, con el objetivo de conocer el proceso de diseño de una solución tecnológica.<De la idea al diseño, viviendo todo el journey>.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Tecnologia utilizada: processo, analitics, ideation-techniques, prototipo, design, ux-research, ux-ui
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+Save the Children
 
-1. Numbered
-2. List
+Proyecto UX para Save the Children México. Optimizar la conversión de visitantes a donadores, mediante una Landing Page, mejorando el aspecto visual y su enfoque en el usuario.
 
-**Bold** and _Italic_ and `Code` text
+Tecnologia utilizada: empty, ideation, design-systems, framework, ux-research, ux-ui, analytics
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+BBVA Plan
+
+BBVA Plan es una aplicación que te ayuda a crear metas de ahorro personalizado, escogiendo reglas de ahorro a tu gusto de manera gratuita y sin comisiones.
+
+Tecnologia utilizada: processo, analitics, ideation-techniques, prototipo, design, ux-research, ux-ui
+
+
+
+## Contacto 
+
+
+
+
+## Sobre mi
 
 ### Jekyll Themes
 
