@@ -4,13 +4,13 @@ Hola, soy Angelica Rivera, Diseñadora de la Comunicación Gráfica y UX Designe
 
 ## Portafolio
 
-**Smart Pack
+**Smart Pack**
 
 Entender y optimizar el journey de tomar un camión de CDMX <> Cuernavaca, con el objetivo de conocer el proceso de diseño de una solución tecnológica.<De la idea al diseño, viviendo todo el journey>.
 
 Tecnologia utilizada: processo, analitics, ideation-techniques, prototipo, design, ux-research, ux-ui
 
-
+https://github.com/angierm/Smart-Pack-Bus
 
 **Save the Children
 
@@ -18,22 +18,23 @@ Proyecto UX para Save the Children México. Optimizar la conversión de visitant
 
 Tecnologia utilizada: empty, ideation, design-systems, framework, ux-research, ux-ui, analytics
 
-
+ https://github.com/angierm/savethechildren
+ 
 **BBVA Plan
 
 BBVA Plan es una aplicación que te ayuda a crear metas de ahorro personalizado, escogiendo reglas de ahorro a tu gusto de manera gratuita y sin comisiones.
 
 Tecnologia utilizada: processo, analitics, ideation-techniques, prototipo, design, ux-research, ux-ui
 
-
+https://github.com/angierm/BBVAPlanCobraUnit
 
 ## Contacto 
 
+e-mail: eus_angie@hotmail.com
 
 
 
 
-## Sobre mi
 
 ### Jekyll Themes
 
