@@ -11,6 +11,7 @@ Entender y optimizar el journey de tomar un camión de CDMX <> Cuernavaca, con e
 Tecnologia utilizada: processo, analitics, ideation-techniques, prototipo, design, ux-research, ux-ui
 
 https://github.com/angierm/Smart-Pack-Bus
+![smartpack](https://user-images.githubusercontent.com/32881450/38707489-0f80ce82-3ea1-11e8-835d-161692348fce.png)
 
 **Save the Children
 
@@ -20,6 +21,8 @@ Tecnologia utilizada: empty, ideation, design-systems, framework, ux-research, u
 
  https://github.com/angierm/savethechildren
  
+ ![download](https://user-images.githubusercontent.com/32881450/38707492-12a2dbb4-3ea1-11e8-88b7-1cf2360ed34b.png)
+ 
 **BBVA Plan
 
 BBVA Plan es una aplicación que te ayuda a crear metas de ahorro personalizado, escogiendo reglas de ahorro a tu gusto de manera gratuita y sin comisiones.
@@ -27,6 +30,9 @@ BBVA Plan es una aplicación que te ayuda a crear metas de ahorro personalizado,
 Tecnologia utilizada: processo, analitics, ideation-techniques, prototipo, design, ux-research, ux-ui
 
 https://github.com/angierm/BBVAPlanCobraUnit
+
+![unnamed](https://user-images.githubusercontent.com/32881450/38707494-148aa510-3ea1-11e8-86b0-aad68110d3fd.jpg)
+
 
 ## Contacto 
 
